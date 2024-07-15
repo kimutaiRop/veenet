@@ -46,7 +46,7 @@
                         <div class="navbar-collapse scroll-nav collapse clearfix" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
                                 <li><a href="/home-internet">Home Internet</a></li>
-                                <li><a href="/wholesale-internet">Enterprice Internet</a></li>
+                                <li><a href="/wholesale-internet">Wholesale Internet</a></li>
                                 <li><a href="/business-communication">Business Communication</a></li>
                             </ul>
                         </div>

@@ -1,146 +1,104 @@
-<section class="pt-120 pb-55">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-xl-6 col-lg-8 col-md-10">
-                <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                    <h2>Choose Affordable Packages</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-                </div>
-            </div>
+<section class="price-two">
+    <div class="price-two_pattern" style="background-image: url(images/background/pattern-2.png)"></div>
+    <span class="price-two_circle-one"></span>
+    <span class="price-two_circle-two"></span>
+    <span class="price-two_circle-three"></span>
+    <span class="price-two_circle-four"></span>
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title light centered">
+            <div class="sec-title_title tx-split-text split-in-up">Our Pricing Plan For You</div>
+            <h2 class="sec-title_heading tx-split-text split-in-up">No hidden charges! choose <br> your plan wisely.</h2>
         </div>
-        
-        <!-- Packages -->
-        <div class="row pb-90">
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
-                    <h4>Personal Pack</h4>
-                    <span>for personal user</span>
-                    <hr>
-                    <ul class="list-unstyled">
-                        <li>Free installation</li>
-                        <li>Up to <span>15 Mpbs</span> download speed</li>
-                        <li>Unlimited data usages</li>
-                        <li><span>01 year</span> pricing lock guarantee</li>
-                        <li>Unlimited bandwidth</li>
+        <div class="row clearfix">
+
+            <!-- Price Block Two -->
+            <div class="price-block_two col-lg-4 col-md-6 col-sm-12">
+                <div class="price-block_two-inner" style="background-image: url(images/background/price-pattern-1.png)">
+                    <div class="price-block_two-tag">Internet</div>
+                    <div class="icon-box">
+                        <i class="flaticon-web-development"></i>
+                    </div>
+                    <div class="price-block_two-title">Internet</div>
+                    <div class="price-block_two-price"><sub>$</sub>55<sup>.99</sup><span>/ Month</span></div>
+                    <!-- Price Block Two List -->
+                    <ul class="price-block_two-list">
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 50 Mbps</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Night Turbo-Speed</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router & prevention</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
                     </ul>
-                    <p><sup>$</sup>12.50 <span>/Monthly</span></p>
-                    <a href="#" class="btn">Order This Plan</a>
+                    <!-- Button Box -->
+                    <div class="price-block_two-button">
+                        <a class="btn-style-two theme-btn" href="price.html">
+                            <div class="btn-wrap">
+                                <span class="text-one">get started</span>
+                                <span class="text-two">get started</span>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
-                    <span class="pupular-pack">Most popular package</span>
-                    <h4>Family Pack</h4>
-                    <span>for family user</span>
-                    <hr>
-                    <ul class="list-unstyled">
-                        <li>Free installation</li>
-                        <li>Up to <span>25 Mpbs</span> download speed</li>
-                        <li>Unlimited data usages</li>
-                        <li><span>02 year</span> pricing lock guarantee</li>
-                        <li>Unlimited bandwidth</li>
+
+            <!-- Price Block Two -->
+            <div class="price-block_two col-lg-4 col-md-6 col-sm-12">
+                <div class="price-block_two-inner" style="background-image: url(images/background/price-pattern-1.png)">
+                    <div class="price-block_two-tag">TV + net</div>
+                    <div class="icon-box">
+                        <i class="flaticon-web-development"></i>
+                        <i class="flaticon-world-grid"></i>
+                    </div>
+                    <div class="price-block_two-title">Comfort Zone</div>
+                    <div class="price-block_two-price"><sub>$</sub>75<sup>.99</sup><span>/ Month</span></div>
+                    <!-- Price Block Two List -->
+                    <ul class="price-block_two-list">
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 50 Mbps</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Night Turbo-Speed</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router & prevention</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
                     </ul>
-                    <p><sup>$</sup>24.50 <span>/Monthly</span></p>
-                    <a href="#" class="btn">Order This Plan</a>
+                    <!-- Button Box -->
+                    <div class="price-block_two-button">
+                        <a class="btn-style-two theme-btn" href="price.html">
+                            <div class="btn-wrap">
+                                <span class="text-one">get started</span>
+                                <span class="text-two">get started</span>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                    <h4>Business Pack</h4>
-                    <span>for business user</span>
-                    <hr>
-                    <ul class="list-unstyled">
-                        <li>Free installation</li>
-                        <li>Up to <span>30 Mpbs</span> download speed</li>
-                        <li>Unlimited data usages</li>
-                        <li><span>03 year</span> pricing lock guarantee</li>
-                        <li>Unlimited bandwidth</li>
+
+            <!-- Price Block Two -->
+            <div class="price-block_two col-lg-4 col-md-6 col-sm-12">
+                <div class="price-block_two-inner" style="background-image: url(images/background/price-pattern-1.png)">
+                    <div class="price-block_two-tag">TV + Net + Phone</div>
+                    <div class="icon-box">
+                        <i class="flaticon-web-development"></i>
+                        <i class="flaticon-world-grid"></i>
+                        <i class="flaticon-online"></i>
+                    </div>
+                    <div class="price-block_two-title">Full Package</div>
+                    <div class="price-block_two-price"><sub>$</sub>95<sup>.99</sup><span>/ Month</span></div>
+                    <!-- Price Block Two List -->
+                    <ul class="price-block_two-list">
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 50 Mbps</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Night Turbo-Speed</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router & prevention</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
                     </ul>
-                    <p><sup>$</sup>49.50 <span>/Monthly</span></p>
-                    <a href="#" class="btn">Order This Plan</a>
+                    <!-- Button Box -->
+                    <div class="price-block_two-button">
+                        <a class="btn-style-two theme-btn" href="price.html">
+                            <div class="btn-wrap">
+                                <span class="text-one">get started</span>
+                                <span class="text-two">get started</span>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
+
         </div>
-        <!-- End of Packages -->
-  
-        <!-- Packages Includes -->
-        <div class="row justify-content-center">
-            <div class="col-xl-6 col-lg-8 col-md-10">
-                <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                    <h2>All Plans Included</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-                </div>
-            </div>
-        </div>
-  
-        <div class="row">
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
-                    <div class="single-feature-img">
-                        <img src="img/icons/ftp.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-feature-content">
-                        <h4>Own FTP Server</h4>
-                        <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
-                    <div class="single-feature-img">
-                        <img src="img/icons/upgrade.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-feature-content">
-                        <h4>Upgrade or Downgrade</h4>
-                        <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
-                    <div class="single-feature-img">
-                        <img src="img/icons/data.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-feature-content">
-                        <h4>No Hard Data Limit</h4>
-                        <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
-                    <div class="single-feature-img">
-                        <img src="img/icons/lock.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-feature-content">
-                        <h4>Lock in Low Rates</h4>
-                        <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
-                    <div class="single-feature-img">
-                        <img src="img/icons/cloud.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-feature-content">
-                        <h4>No Video Streaming</h4>
-                        <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".8">
-                    <div class="single-feature-img">
-                        <img src="img/icons/access.svg" alt="" class="svg">
-                    </div>
-                    <div class="single-feature-content">
-                        <h4>Access to All Website</h4>
-                        <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End of Packages Includes -->
     </div>
-  </section>
+</section>

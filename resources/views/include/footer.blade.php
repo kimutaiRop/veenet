@@ -19,8 +19,12 @@
                                     
                                 </div>
                             </div>
+                        </div>
+                    </div>
 
-                            <!-- Footer Column -->
+                    <!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="row clearfix">
                             <div class="footer_column col-lg-5 col-md-6 col-sm-12">
                                 <div class="footer-widget links-widget">
                                     <h5 class="footer-title">Links</h5>
@@ -31,38 +35,6 @@
                                         <li><a href="#">Services</a></li>
                                         <li><a href="#">News</a></li>
                                     </ul>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <!-- Big Column -->
-                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="row clearfix">
-
-                            <!-- Footer Column -->
-                            <div class="footer_column col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget post-widget">
-                                    <h5 class="footer-title">recent post</h5>
-                                    <!--News Widget Block-->
-                                    <div class="news-widget-block">
-                                        <div class="news-widget_image">
-                                            <img src="images/resource/post-thumb-4.jpg" alt="" />
-                                        </div>
-                                        <h6 class="news-widget_title"><a href="news-detail.html">Broadband Connection Among Devices?</a></h6>
-                                        <div class="news-widget_post-date">January 3, 2022</div>
-                                    </div>
-
-                                    <!--News Widget Block-->
-                                    <div class="news-widget-block">
-                                        <div class="news-widget_image">
-                                            <img src="images/resource/post-thumb-5.jpg" alt="" />
-                                        </div>
-                                        <h6 class="news-widget_title"><a href="news-detail.html">How Can You Change The IP From Your</a></h6>
-                                        <div class="news-widget_post-date">January 3, 2022</div>
-                                    </div>
-
                                 </div>
                             </div>
 
