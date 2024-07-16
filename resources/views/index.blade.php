@@ -2,107 +2,7 @@
 {{-- put inside container --}}
 
 @section('content')
- 	<!-- Sidebar Cart Item -->
-     <div class="xs-sidebar-group info-group">
-		<div class="xs-overlay xs-bg-black"></div>
-		<div class="xs-sidebar-widget">
-			<div class="sidebar-widget-container">
-				<div class="close-button">
-					<span class="far fa-times fa-fw"></span>
-				</div>
-				<div class="sidebar-textwidget">
-					
-					<!-- Sidebar Info Content -->
-					<div class="sidebar-info-contents">
-						<div class="content-inner">
-						
-							<!-- Title Box -->
-							<div class="title-box">
-								<h5>Broadband <span>connection</span></h5>
-								<div class="price">$15 from free economy shipping</div>
-							</div>
-							
-							<!-- Empty Cart Box -->
-							<div class="empty-cart-box">
-								<!-- No Product -->
-								<div class="no-cart">
-									<span class="icon far fa-cart-plus fa-fw"></span>
-									No products in cart.
-								</div>
-							</div>
-							
-							<!-- Lower Box -->
-							<div class="lower-box">
-								<h5>Popular <span>Suggestions</span></h5>
-									
-								<!-- Post Block -->
-								<div class="post-block">
-									<div class="inner-box">
-										<div class="image">
-											<img src="images/resource/post-thumb-1.jpg" alt="" />
-										</div>
-										<h6><a href="#">Free Installation</a></h6>
-										<div class="rating">
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-										</div>
-										<div class="price-box">$125</div>
-										<a class="theme-btn bag-btn" href="#">add to bag</a>
-									</div>
-								</div>
-								
-								<!-- Post Block -->
-								<div class="post-block">
-									<div class="inner-box">
-										<div class="image">
-											<img src="images/resource/post-thumb-2.jpg" alt="" />
-										</div>
-										<h6><a href="#">Ultra Fast Connect</a></h6>
-										<div class="rating">
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-										</div>
-										<div class="price-box">$205</div>
-										<a class="theme-btn bag-btn" href="#">add to bag</a>
-									</div>
-								</div>
-								
-								<!-- Post Block -->
-								<div class="post-block">
-									<div class="inner-box">
-										<div class="image">
-											<img src="images/resource/post-thumb-3.jpg" alt="" />
-										</div>
-										<h6><a href="#">4K and 8K Quality</a></h6>
-										<div class="rating">
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-										</div>
-										<div class="price-box">$25</div>
-										<a class="theme-btn bag-btn" href="#">add to bag</a>
-									</div>
-								</div>
-								
-							</div>
-							
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<!-- Slider One -->
 	<section class="slider-one" id="home">
 		<div class="swiper_carousel swiper-container" data-swiper='{"spaceBetween":0,"slidesPerView":1,"navigation":{"nextEl":".main-slider_button-next","prevEl":".main-slider_button-prev","clickable":"true"},"pagination":{"el":".main-slider_pagination","clickable":"true"},"autoplay":{"delay":"6000"},"breakpoints":{"320":{"slidesPerView":1,"spaceBetween":0},"480":{"slidesPerView":1,"spaceBetween":0},"640":{"slidesPerView":1,"spaceBetween":0}}}'>
 			<div class="swiper-wrapper">
@@ -159,7 +59,7 @@
                                     <br> To redistribute to your customers</div>
 								<!-- Button Box -->
 								<div class="slider-one_button-box d-flex align-items-center flex-wrap">
-									<a class="btn-style-one theme-btn" href="about.html">
+									<a class="btn-style-one theme-btn" href="/wholesale-internet">
 										<div class="btn-wrap">
 											<span class="text-one">Discover More</span>
 											<span class="text-two">Discover More</span>
@@ -195,7 +95,7 @@
                                     <br> and we are here to help you master it!</div>
 								<!-- Button Box -->
 								<div class="slider-one_button-box d-flex align-items-center flex-wrap">
-									<a class="btn-style-one theme-btn" href="about.html">
+									<a class="btn-style-one theme-btn" href="/business-communication">
 										<div class="btn-wrap">
 											<span class="text-one">Discover More</span>
 											<span class="text-two">Discover More</span>
@@ -265,12 +165,12 @@
 					<div class="service-block_one-inner">
 						<div class="service-block_one-upper">
 							<div class="service-block_one-icon flaticon-smartphone"></div>
-							<h4 class="service-block_one-heading"><a href="service-detail.html">Business <br> Communication</a></h4>
+							<h4 class="service-block_one-heading"><a href="/business-communication">Business <br> Communication</a></h4>
 						</div>
 						<div class="service-block_one-text">
                         Provide reliable communication for your business for both your customers and  staff   
                         </div>
-						<a class="service-block_one-more" href="service-detail.html">Get Service</a>
+						<a class="service-block_one-more" href="/business-communication">Get Service</a>
 					</div>
 				</div>
 
@@ -345,7 +245,7 @@
 				<div class="d-flex justify-content-between align-items-center flex-wrap">
 					<div class="left-box">
 						<div class="sec-title_title">OUR BENEFITS</div>
-						<h2 class="sec-title_heading">A few great reasons make <br> you choice veenet</h2>
+						<h2 class="sec-title_heading">A few great reasons make <br>veenet Africa you choice </h2>
 					</div>
 					<div class="right-box">
 						<div class="sec-title_text">

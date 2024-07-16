@@ -1,4 +1,4 @@
-<section class="price-two">
+<section class="price-two" id="pricing">
     <div class="price-two_pattern" style="background-image: url(images/background/pattern-2.png)"></div>
     <span class="price-two_circle-one"></span>
     <span class="price-two_circle-two"></span>

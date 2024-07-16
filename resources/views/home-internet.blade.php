@@ -2,140 +2,7 @@
 {{-- put inside container --}}
 
 @section('content')
-<div class="xs-sidebar-group info-group">
-    <div class="xs-overlay xs-bg-black"></div>
-    <div class="xs-sidebar-widget">
-        <div class="sidebar-widget-container">
-            <div class="close-button">
-                <span class="far fa-times fa-fw"></span>
-            </div>
-            <div class="sidebar-textwidget">
-                
-                <!-- Sidebar Info Content -->
-                <div class="sidebar-info-contents">
-                    <div class="content-inner">
-                    
-                        <!-- Title Box -->
-                        <div class="title-box">
-                            <h5>Broadband <span>connection</span></h5>
-                            <div class="price">$15 from free economy shipping</div>
-                        </div>
-                        
-                        <!-- Empty Cart Box -->
-                        <div class="empty-cart-box">
-                            <!-- No Product -->
-                            <div class="no-cart">
-                                <span class="icon far fa-cart-plus fa-fw"></span>
-                                No products in cart.
-                            </div>
-                        </div>
-                        
-                        <!-- Lower Box -->
-                        <div class="lower-box">
-                            <h5>Popular <span>Suggestions</span></h5>
-                                
-                            <!-- Post Block -->
-                            <div class="post-block">
-                                <div class="inner-box">
-                                    <div class="image">
-                                        <img src="images/resource/post-thumb-1.jpg" alt="" />
-                                    </div>
-                                    <h6><a href="#">Free Installation</a></h6>
-                                    <div class="rating">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                    <div class="price-box">$125</div>
-                                    <a class="theme-btn bag-btn" href="#">add to bag</a>
-                                </div>
-                            </div>
-                            
-                            <!-- Post Block -->
-                            <div class="post-block">
-                                <div class="inner-box">
-                                    <div class="image">
-                                        <img src="images/resource/post-thumb-2.jpg" alt="" />
-                                    </div>
-                                    <h6><a href="#">Ultra Fast Connect</a></h6>
-                                    <div class="rating">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                    <div class="price-box">$205</div>
-                                    <a class="theme-btn bag-btn" href="#">add to bag</a>
-                                </div>
-                            </div>
-                            
-                            <!-- Post Block -->
-                            <div class="post-block">
-                                <div class="inner-box">
-                                    <div class="image">
-                                        <img src="images/resource/post-thumb-3.jpg" alt="" />
-                                    </div>
-                                    <h6><a href="#">4K and 8K Quality</a></h6>
-                                    <div class="rating">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                    <div class="price-box">$25</div>
-                                    <a class="theme-btn bag-btn" href="#">add to bag</a>
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-</div>
 
-<!-- About Sidebar -->
-<div class="about-sidebar">
-    <div class="gradient-layer"></div>
-    <!-- Close Button -->
-    <div class="close-sidebar-widget close-button">
-        <span class="flaticon-multiply"></span>
-    </div>
-    <div class="sidebar-inner">
-        <div class="upper-box">
-            <div class="image">
-                <img src="images/resource/about-1.jpg" alt="" />
-            </div>
-            <div class="content-box">
-                <h3>About <span>Monic</span></h3>
-                <div class="text">Many desktop Wifi packages & web page editors now use Ipsum budgets dipiscing</div>
-                <ul class="about-one_list">
-                    <li>Internet with 50 Mbps</li>
-                    <li>Night Turbo-Speed</li>
-                    <li>WiFi router & prevention</li>
-                    <li>Unlimited devices</li>
-                </ul>
-            </div>
-        </div>
-        <!-- Social Box -->
-        <div class="social-box">
-            <a href="https://facebook.com/"><i class="fa-brands fa-facebook-f"></i></a>
-            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
-            <a href="https://youtube.com/"><i class="fa-brands fa-youtube"></i></a>
-            <a href="https://instagram.com/"><i class="fa-brands fa-instagram"></i></a>
-        </div>
-    </div>
-</div>
-<!-- End About Sidebar -->
-
-<!-- Slider One -->
 <section class="slider-two" id="home">
     <div class="swiper_carousel swiper-container" data-swiper='{"spaceBetween":0,"slidesPerView":1,"navigation":{"nextEl":".slider-two_button-next","prevEl":".slider-two_button-prev","clickable":"true"},"pagination":{"el":".slider-two_pagination","clickable":"true"},"autoplay":{"delay":"6000"},"breakpoints":{"320":{"slidesPerView":1,"spaceBetween":0},"480":{"slidesPerView":1,"spaceBetween":0},"640":{"slidesPerView":1,"spaceBetween":0}}}'>
         <div class="swiper-wrapper">
@@ -147,7 +14,7 @@
                     <div class="slider-two_content-column">
                         <div class="slider-two_content-inner">
                             <div class="slider-two_price">KES 1999 <span>Per Month</span></div>
-                            <div class="slider-two_title">Welcome to Veenet Home Internet</div>
+                            <div class="slider-two_title">Welcome to Veenet's Home Internet</div>
                             <h1 class="slider-two_heading">
                                 Best Internet <br> Service in Your <br> Region
                             </h1>
@@ -198,8 +65,7 @@
                             <br> For Your Home</h2>
                     </div>
                     <div class="about-two_bold-text">
-                        We are a team of experienced internet providers with 15+ years of experience. Ready to connect your home to the world.
-                    </div>
+                        Veenet Africa delivers high-speed home internet services designed to enrich the digital lifestyles of residential customers. With flexible packages and reliable connections, we ensure seamless browsing, streaming, and communication experiences                    </div>
                     <div class="row clearfix">
                         <div class="column col-lg-6 col-md-6 col-sm-6">
                             <ul class="about-two_list">
@@ -223,7 +89,7 @@
                         <div class="d-flex align-items-center flex-wrap">
                             <!-- Button Box -->
                             <div class="about-two_button">
-                                <a class="btn-style-two theme-btn" href="about.html">
+                                <a class="btn-style-two theme-btn" href="#pricing">
                                     <div class="btn-wrap">
                                         <span class="text-one">Discover More</span>
                                         <span class="text-two">Discover More</span>

@@ -2,138 +2,6 @@
 {{-- put inside container --}}
 
 @section('content')
-<div class="xs-sidebar-group info-group">
-    <div class="xs-overlay xs-bg-black"></div>
-    <div class="xs-sidebar-widget">
-        <div class="sidebar-widget-container">
-            <div class="close-button">
-                <span class="far fa-times fa-fw"></span>
-            </div>
-            <div class="sidebar-textwidget">
-                
-                <!-- Sidebar Info Content -->
-                <div class="sidebar-info-contents">
-                    <div class="content-inner">
-                    
-                        <!-- Title Box -->
-                        <div class="title-box">
-                            <h5>Broadband <span>connection</span></h5>
-                            <div class="price">$15 from free economy shipping</div>
-                        </div>
-                        
-                        <!-- Empty Cart Box -->
-                        <div class="empty-cart-box">
-                            <!-- No Product -->
-                            <div class="no-cart">
-                                <span class="icon far fa-cart-plus fa-fw"></span>
-                                No products in cart.
-                            </div>
-                        </div>
-                        
-                        <!-- Lower Box -->
-                        <div class="lower-box">
-                            <h5>Popular <span>Suggestions</span></h5>
-                                
-                            <!-- Post Block -->
-                            <div class="post-block">
-                                <div class="inner-box">
-                                    <div class="image">
-                                        <img src="images/resource/post-thumb-1.jpg" alt="" />
-                                    </div>
-                                    <h6><a href="#">Free Installation</a></h6>
-                                    <div class="rating">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                    <div class="price-box">$125</div>
-                                    <a class="theme-btn bag-btn" href="#">add to bag</a>
-                                </div>
-                            </div>
-                            
-                            <!-- Post Block -->
-                            <div class="post-block">
-                                <div class="inner-box">
-                                    <div class="image">
-                                        <img src="images/resource/post-thumb-2.jpg" alt="" />
-                                    </div>
-                                    <h6><a href="#">Ultra Fast Connect</a></h6>
-                                    <div class="rating">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                    <div class="price-box">$205</div>
-                                    <a class="theme-btn bag-btn" href="#">add to bag</a>
-                                </div>
-                            </div>
-                            
-                            <!-- Post Block -->
-                            <div class="post-block">
-                                <div class="inner-box">
-                                    <div class="image">
-                                        <img src="images/resource/post-thumb-3.jpg" alt="" />
-                                    </div>
-                                    <h6><a href="#">4K and 8K Quality</a></h6>
-                                    <div class="rating">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                    <div class="price-box">$25</div>
-                                    <a class="theme-btn bag-btn" href="#">add to bag</a>
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- About Sidebar -->
-<div class="about-sidebar">
-    <div class="gradient-layer"></div>
-    <!-- Close Button -->
-    <div class="close-sidebar-widget close-button">
-        <span class="flaticon-multiply"></span>
-    </div>
-    <div class="sidebar-inner">
-        <div class="upper-box">
-            <div class="image">
-                <img src="images/resource/about-1.jpg" alt="" />
-            </div>
-            <div class="content-box">
-                <h3>About <span>Monic</span></h3>
-                <div class="text">Many desktop Wifi packages & web page editors now use Ipsum budgets dipiscing</div>
-                <ul class="about-one_list">
-                    <li>Internet with 50 Mbps</li>
-                    <li>Night Turbo-Speed</li>
-                    <li>WiFi router & prevention</li>
-                    <li>Unlimited devices</li>
-                </ul>
-            </div>
-        </div>
-        <!-- Social Box -->
-        <div class="social-box">
-            <a href="https://facebook.com/"><i class="fa-brands fa-facebook-f"></i></a>
-            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
-            <a href="https://youtube.com/"><i class="fa-brands fa-youtube"></i></a>
-            <a href="https://instagram.com/"><i class="fa-brands fa-instagram"></i></a>
-        </div>
-    </div>
-</div>
-<!-- End About Sidebar -->
 
 <!-- Slider One -->
 <section class="slider-two" id="home">
@@ -146,7 +14,7 @@
                     <!-- Content Column -->
                     <div class="slider-two_content-column">
                         <div class="slider-two_content-inner">
-                            <div class="slider-two_title">Welcome to Veenet Wholesale Internet</div>
+                            <div class="slider-two_title">Welcome to Veenet Africa Wholesale Internet</div>
                             <h1 class="slider-two_heading">
                                 Treansforming <br> Internet <br> Supply Chain
                             </h1>
@@ -196,8 +64,7 @@
                             <br> Internet for your business</h2>
                     </div>
                     <div class="about-two_bold-text">
-                        Supplying internet has various challanges starting from finding a reliable provider to getting a reliable internet connection.
-                    </div>
+                        Veenet Africa offers robust wholesale internet solutions tailored for ISPs, telecommunications companies, and large enterprises. Our scalable bandwidth options ensure seamless connectivity and high performance for diverse network demands                    </div>
                     <div class="row clearfix">
                         <div class="column col-lg-6 col-md-6 col-sm-6">
                             <ul class="about-two_list">
@@ -217,22 +84,12 @@
                     <p>
                         We offer reliable internet for small and big businesses. as we try to cover the whole of africa with our services.
                     </p>
-                    <div class="about-two_lower-box">
-                        <div class="d-flex align-items-center flex-wrap">
-                            <!-- Button Box -->
-                            <div class="about-two_button">
-                                <a class="btn-style-two theme-btn" href="about.html">
-                                    <div class="btn-wrap">
-                                        <span class="text-one">Discover More</span>
-                                        <span class="text-two">Discover More</span>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="about-two_price">
-                                <sub>Kes</sub>1999<sub>/  month</sub>
-                                <span> Subscribed & get Free router </span>
-                            </div>
+                    <div class="inverse-one_phone">
+                        <div class="inverse-one_phone-icon">
+                            <i class="fa fa-phone"></i>
                         </div>
+                        Give us a call <br>
+                        <a href="tel:+254 758353533">+254 758353533</a>
                     </div>
                 </div>
             </div>
@@ -241,15 +98,59 @@
     </div>
 </section>
 <!-- End About Two -->
-
+<section class="fluid-two">
+    <div class="outer-container clearfix">
+        <!-- Left Box -->
+        <div class="left-box clearfix">
+            <div class="left-box_inner">
+                <div class="fluid-one_color-layer"></div>
+                <!-- Sec Title -->
+                <div class="sec-title">
+                    <div class="sec-title_title">Dedicated Inaternet</div>
+                    <h2 class="sec-title_heading">We offer reliable<br> Dedicated Internet</h2>
+                </div>
+                <div class="fluid-two_feature">
+                    <div class="fluid-two_feature-icon flaticon-wifi-router"></div>
+                    Get conneted with <a href="#">Veenet Africa</a> that can provide your every technology need to connect the world.
+                </div>
+                <div class="fluid-two_text">
+                    Tailored to meet the stringent requirements of businesses, our dedicated internet solutions provide guaranteed bandwidth, low latency, and exceptional reliability. Ideal for enterprises needing mission-critical connectivity
+                </div>
+                <!-- Button Box -->
+                <div class="inverse-one_phone">
+                    <div class="inverse-one_phone-icon">
+                        <i class="fa fa-phone"></i>
+                    </div>
+                    Give us a call <br>
+                    <a href="tel:+254 758353533">+254 758353533</a>
+                </div>
+            </div>
+            <div class="fluid-two_router">
+                <img src="images/icons/router.png" alt="" />
+            </div>
+        </div>
+        <!-- Right Box -->
+        <div class="right-box" style="background-image: url(images/resource/fluid-two.jpg)">
+            <div class="right-box_inner">
+                <div class="fluid-two_image">
+                    <img src="images/resource/fluid-two.jpg" alt="" />
+                </div>
+            </div>
+            <div class="fluid-two_experiance">
+                <span class="fluid-two_experiance-icon flaticon-technical-support"></span>
+                Experience <br> Best internet
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Service Two -->
 <section class="service-two" id="services">
     <div class="service-two_pattern" style="background-image: url(images/background/service-two_pattern.png)"></div>
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="sec-title_title tx-split-text split-in-up">our sERVICES</div>
-            <h2 class="sec-title_heading tx-split-text split-in-up">Explore our services</h2>
+            <div class="sec-title_title tx-split-text split-in-up">our stategies</div>
+            <h2 class="sec-title_heading tx-split-text split-in-up">strategic superiority for your business</h2>
         </div>
         
         <div class="swiper_carousel swiper-container" data-swiper='{"spaceBetween":25,"slidesPerView":4,"centeredSlides":false,"loop":true,"navigation":{"nextEl":".swiper-button-next","prevEl":".swiper-button-prev","clickable":"true"},"pagination":{"el":".service-two_pagination","clickable":"true"},"autoplay":{"delay":"6000"},"breakpoints":{"320":{"slidesPerView":1,"spaceBetween":0},"700":{"slidesPerView":1,"spaceBetween":0},"600":{"slidesPerView":2,"spaceBetween":15},"700":{"slidesPerView":2,"spaceBetween":25},"900":{"slidesPerView":2,"spaceBetween":25},"1000":{"slidesPerView":3,"spaceBetween":25},"1200":{"slidesPerView":4,"spaceBetween":25},"1500":{"slidesPerView":4,"spaceBetween":25}}}'>
@@ -261,37 +162,9 @@
                     <div class="service-block_two">
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
-                            <div class="service-block_two-icon flaticon-wifi-1"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Internet Service</a></h4>
-                            <div class="service-block_two-text">Justo eleifend sociosqu quisque elementum suscipit purus natoque dolor</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Slide -->
-                <div class="swiper-slide">
-                    <!-- Service Block Two -->
-                    <div class="service-block_two margin">
-                        <div class="service-block_two-inner">
-                            <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
-                            <div class="service-block_two-icon flaticon-tv"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Satellite TV</a></h4>
-                            <div class="service-block_two-text">Justo eleifend sociosqu quisque elementum suscipit purus natoque dolor</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Slide -->
-                <div class="swiper-slide">
-                    <!-- Service Block Two -->
-                    <div class="service-block_two">
-                        <div class="service-block_two-inner">
-                            <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
-                            <div class="service-block_two-icon flaticon-telephone"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">VOIP</a></h4>
-                            <div class="service-block_two-text">Justo eleifend sociosqu quisque elementum suscipit purus natoque dolor</div>
+                            <div class="service-block_two-icon flaticon-installation"></div>
+                            <h4 class="service-block_two-heading"><a href="service-detail.html">Enhanced Reach and Coverage</a></h4>
+                            <div class="service-block_two-text">Leasing infrastructure from well-established fiber network providers</div>
                             <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
                         </div>
                     </div>
@@ -304,188 +177,66 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">VPN Services</a></h4>
-                            <div class="service-block_two-text">Justo eleifend sociosqu quisque elementum suscipit purus natoque dolor</div>
+                            <h4 class="service-block_two-heading"><a href="service-detail.html">Reliability and Performance</a></h4>
+                            <div class="service-block_two-text">Utilizing established fiber networks ensures high reliability and superior performance</div>
                             <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
                         </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
-
-    </div>
-</section>
-<!-- End Service Two -->
-
-<!-- Facility One -->
-<section class="facility-one">
-    <span class="facility-one_circle-one"></span>
-    <span class="facility-one_circle-two"></span>
-    <div class="facility-one_pattern" style="background-image: url(images/background/facility-pattern.png)"></div>
-    <div class="auto-container">
-        <div class="row clearfix">
-            
-            <!-- Content Column -->
-            <div class="facility-one_content-column col-lg-6 col-md-12 col-sm-12">
-                <div class="facility-one_content-outer">
-                    <!-- Sec Title -->
-                    <div class="sec-title">
-                        <div class="sec-title_title tx-split-text split-in-up">OUR FACILITY</div>
-                        <h2 class="sec-title_heading tx-split-text split-in-up">Few great reasons make <br> you choice us</h2>
-                        <div class="sec-title_text tx-split-text split-in-up">Business is the activity of making one's living or making money by producing cumsociis natoque penatibus et magnis dis partu rient to montes. Aene an massa. cumsociis natoque penatibus.</div>
-                    </div>
-                    <!-- Facility Block One -->
-                    <div class="facility-block_one">
-                        <div class="facility-block_one-inner">
-                            <div class="facility-block_one-icon flaticon-web-development"></div>
-                            <h4 class="facility-block_one-heading">Free Installation</h4>
-                            <div class="facility-block_one-text">Lorem ipsum dolor sit amet them consec tetur elit sed eiumod. Donec quam felis ies nec.</div>
+                <!-- Slide -->
+                <div class="swiper-slide">
+                    <!-- Service Block Two -->
+                    <div class="service-block_two">
+                        <div class="service-block_two-inner">
+                            <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
+                            <div class="service-block_two-icon flaticon-installation"></div>
+                            <h4 class="service-block_two-heading"><a href="service-detail.html">Scalability and Flexibility</a></h4>
+                            <div class="service-block_two-text">Leasing infrastructure provides Veenet Africa with scalability options to meet growing demand.</div>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
                         </div>
                     </div>
+                </div>
 
-                    <!-- Facility Block One -->
-                    <div class="facility-block_one">
-                        <div class="facility-block_one-inner">
-                            <div class="facility-block_one-icon flaticon-wifi-router"></div>
-                            <h4 class="facility-block_one-heading">Ultrafast Connect</h4>
-                            <div class="facility-block_one-text">Lorem ipsum dolor sit amet them consec tetur elit sed eiumod. Donec quam felis ies nec.</div>
+                <!-- Slide -->
+                <div class="swiper-slide">
+                    <!-- Service Block Two -->
+                    <div class="service-block_two margin">
+                        <div class="service-block_two-inner">
+                            <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
+                            <div class="service-block_two-icon flaticon-installation"></div>
+                            <h4 class="service-block_two-heading"><a href="service-detail.html">Cost Efficiency</a></h4>
+                            <div class="service-block_two-text">Leasing infrastructure can be a cost-effective solution compared to building and maintaining proprietary network</div>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
                         </div>
                     </div>
-
-                    <!-- Facility Block One -->
-                    <div class="facility-block_one">
-                        <div class="facility-block_one-inner">
-                            <div class="facility-block_one-icon flaticon-smart-tv"></div>
-                            <h4 class="facility-block_one-heading">4K and 8K Quality</h4>
-                            <div class="facility-block_one-text">Lorem ipsum dolor sit amet them consec tetur elit sed eiumod. Donec quam felis ies nec.</div>
+                </div> <div class="swiper-slide">
+                    <!-- Service Block Two -->
+                    <div class="service-block_two ">
+                        <div class="service-block_two-inner">
+                            <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
+                            <div class="service-block_two-icon flaticon-installation"></div>
+                            <h4 class="service-block_two-heading"><a href="service-detail.html">Focus on Core Competencies</a></h4>
+                            <div class="service-block_two-text">By outsourcing infrastructure leasing to specialized providers, Veenet Africa can focus more resources and efforts on its core competencies.</div>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
                         </div>
                     </div>
-
                 </div>
-            </div>
-
-            <!-- Image Column -->
-            <div class="facility-one_image-column col-lg-6 col-md-12 col-sm-12">
-                <div class="facility-one_image-outer">
-                    <span class="facility-one_circle-three"></span>
-                    <div class="facility-one_image">
-                        <img src="images/resource/facility.png" alt="" />
+                <div class="swiper-slide">
+                    <!-- Service Block Two -->
+                    <div class="service-block_two margin">
+                        <div class="service-block_two-inner">
+                            <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
+                            <div class="service-block_two-icon flaticon-installation"></div>
+                            <h4 class="service-block_two-heading"><a href="service-detail.html">Regulatory Compliance</a></h4>
+                            <div class="service-block_two-text">Partnering with established fiber network providers often ensures compliance with local regulations</div>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                        </div>
                     </div>
-                    <div class="facility-one_package">
-                        <img src="images/resource/package.png" alt="" />
-                    </div>
-                </div>
+                
             </div>
-
         </div>
-    </div>
-</section>
-<!-- End Facility One -->
 
-<!-- Price Two -->
-<section class="price-two">
-    <div class="price-two_pattern" style="background-image: url(images/background/pattern-2.png)"></div>
-    <span class="price-two_circle-one"></span>
-    <span class="price-two_circle-two"></span>
-    <span class="price-two_circle-three"></span>
-    <span class="price-two_circle-four"></span>
-    <div class="auto-container">
-        <!-- Sec Title -->
-        <div class="sec-title light centered">
-            <div class="sec-title_title tx-split-text split-in-up">Our Pricing Plan For You</div>
-            <h2 class="sec-title_heading tx-split-text split-in-up">No hidden charges! choose <br> your plan wisely.</h2>
-        </div>
-        <div class="row clearfix">
-
-            <!-- Price Block Two -->
-            <div class="price-block_two col-lg-4 col-md-6 col-sm-12">
-                <div class="price-block_two-inner" style="background-image: url(images/background/price-pattern-1.png)">
-                    <div class="price-block_two-tag">Internet</div>
-                    <div class="icon-box">
-                        <i class="flaticon-web-development"></i>
-                    </div>
-                    <div class="price-block_two-title">Internet</div>
-                    <div class="price-block_two-price"><sub>$</sub>55<sup>.99</sup><span>/ Month</span></div>
-                    <!-- Price Block Two List -->
-                    <ul class="price-block_two-list">
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 50 Mbps</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Night Turbo-Speed</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router & prevention</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
-                    </ul>
-                    <!-- Button Box -->
-                    <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
-                            <div class="btn-wrap">
-                                <span class="text-one">get started</span>
-                                <span class="text-two">get started</span>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Price Block Two -->
-            <div class="price-block_two col-lg-4 col-md-6 col-sm-12">
-                <div class="price-block_two-inner" style="background-image: url(images/background/price-pattern-1.png)">
-                    <div class="price-block_two-tag">TV + net</div>
-                    <div class="icon-box">
-                        <i class="flaticon-web-development"></i>
-                        <i class="flaticon-world-grid"></i>
-                    </div>
-                    <div class="price-block_two-title">Comfort Zone</div>
-                    <div class="price-block_two-price"><sub>$</sub>75<sup>.99</sup><span>/ Month</span></div>
-                    <!-- Price Block Two List -->
-                    <ul class="price-block_two-list">
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 50 Mbps</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Night Turbo-Speed</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router & prevention</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
-                    </ul>
-                    <!-- Button Box -->
-                    <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
-                            <div class="btn-wrap">
-                                <span class="text-one">get started</span>
-                                <span class="text-two">get started</span>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Price Block Two -->
-            <div class="price-block_two col-lg-4 col-md-6 col-sm-12">
-                <div class="price-block_two-inner" style="background-image: url(images/background/price-pattern-1.png)">
-                    <div class="price-block_two-tag">TV + Net + Phone</div>
-                    <div class="icon-box">
-                        <i class="flaticon-web-development"></i>
-                        <i class="flaticon-world-grid"></i>
-                        <i class="flaticon-online"></i>
-                    </div>
-                    <div class="price-block_two-title">Full Package</div>
-                    <div class="price-block_two-price"><sub>$</sub>95<sup>.99</sup><span>/ Month</span></div>
-                    <!-- Price Block Two List -->
-                    <ul class="price-block_two-list">
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 50 Mbps</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Night Turbo-Speed</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router & prevention</li>
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
-                    </ul>
-                    <!-- Button Box -->
-                    <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
-                            <div class="btn-wrap">
-                                <span class="text-one">get started</span>
-                                <span class="text-two">get started</span>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
     </div>
 </section>
 
