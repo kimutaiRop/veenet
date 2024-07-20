@@ -78,7 +78,7 @@
                             <ul class="about-two_list">
                                 <li><i class="fa-solid fa-bolt fa-fw"></i> Friendly Support</li>
                                 <li><i class="fa-solid fa-bolt fa-fw"></i> 24/7 Online Support</li>
-                                <li><i class="fa-solid fa-bolt fa-fw"></i> Speed Up to 100 Mbps</li>
+                                <li><i class="fa-solid fa-bolt fa-fw"></i> Speed Up to 30 Mbps</li>
                             </ul>
                         </div>
                     </div>
