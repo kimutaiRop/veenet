@@ -29,7 +29,7 @@
                     </ul>
                     <!-- Button Box -->
                     <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
+                        <a class="btn-style-two theme-btn" href="https://api.whatsapp.com/send/?phone=254722684751&text=Hi+Veenet%2C+I+am+Interested+in+Internet+plan%3A+Home+Plan speed: 10+Mbps">
                             <div class="btn-wrap">
                                 <span class="text-one">get started</span>
                                 <span class="text-two">get started</span>
@@ -52,14 +52,14 @@
                     <div class="price-block_two-price"><sub>kes</sub>2499<sup>.00</sup><span>/ Month</span></div>
                     <!-- Price Block Two List -->
                     <ul class="price-block_two-list">
-                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 10 Mbps</li>
+                        <li><i class="icon fa-solid fa-check fa-fw"></i>Internet with 15 Mbps</li>
                         <li><i class="icon fa-solid fa-check fa-fw"></i>24/7 Online Support</li>
                         <li><i class="icon fa-solid fa-check fa-fw"></i>WiFi router </li>
                         <li><i class="icon fa-solid fa-check fa-fw"></i>Unlimited devices</li>
                     </ul>
                     <!-- Button Box -->
                     <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
+                        <a class="btn-style-two theme-btn" href="https://api.whatsapp.com/send/?phone=254722684751&text=Hi+Veenet%2C+I+am+Interested+in+Internet+plan%3A+Home+Plan speed: 10+Mbps">
                             <div class="btn-wrap">
                                 <span class="text-one">get started</span>
                                 <span class="text-two">get started</span>
@@ -88,7 +88,7 @@
                     </ul>
                     <!-- Button Box -->
                     <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
+                        <a class="btn-style-two theme-btn" href="https://api.whatsapp.com/send/?phone=254722684751&text=Hi+Veenet%2C+I+am+Interested+in+Internet+plan%3A+Home+Plan speed: 20+Mbps"">
                             <div class="btn-wrap">
                                 <span class="text-one">get started</span>
                                 <span class="text-two">get started</span>
@@ -115,7 +115,7 @@
                     </ul>
                     <!-- Button Box -->
                     <div class="price-block_two-button">
-                        <a class="btn-style-two theme-btn" href="price.html">
+                        <a class="btn-style-two theme-btn" href="https://api.whatsapp.com/send/?phone=254722684751&text=Hi+Veenet%2C+I+am+Interested+in+Internet+plan%3A+Home+Plan speed: 30+Mbps">
                             <div class="btn-wrap">
                                 <span class="text-one">get started</span>
                                 <span class="text-two">get started</span>

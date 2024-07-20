@@ -163,9 +163,9 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Enhanced Reach and Coverage</a></h4>
+                            <h4 class="service-block_two-heading"><a href="Veenet Africa Business Profile.pdf">Enhanced Reach and Coverage</a></h4>
                             <div class="service-block_two-text">Leasing infrastructure from well-established fiber network providers</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="Veenet Africa Business Profile.pdf"></a>
                         </div>
                     </div>
                 </div>
@@ -177,9 +177,9 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Reliability and Performance</a></h4>
+                            <h4 class="service-block_two-heading"><a href="Veenet Africa Business Profile.pdf">Reliability and Performance</a></h4>
                             <div class="service-block_two-text">Utilizing established fiber networks ensures high reliability and superior performance</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="Veenet Africa Business Profile.pdf"></a>
                         </div>
                     </div>
                 </div>
@@ -191,9 +191,9 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Scalability and Flexibility</a></h4>
+                            <h4 class="service-block_two-heading"><a href="Veenet Africa Business Profile.pdf">Scalability and Flexibility</a></h4>
                             <div class="service-block_two-text">Leasing infrastructure provides Veenet Africa with scalability options to meet growing demand.</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="Veenet Africa Business Profile.pdf"></a>
                         </div>
                     </div>
                 </div>
@@ -205,9 +205,9 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Cost Efficiency</a></h4>
+                            <h4 class="service-block_two-heading"><a href="Veenet Africa Business Profile.pdf">Cost Efficiency</a></h4>
                             <div class="service-block_two-text">Leasing infrastructure can be a cost-effective solution compared to building and maintaining proprietary network</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="Veenet Africa Business Profile.pdf"></a>
                         </div>
                     </div>
                 </div> <div class="swiper-slide">
@@ -216,9 +216,9 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Focus on Core Competencies</a></h4>
+                            <h4 class="service-block_two-heading"><a href="Veenet Africa Business Profile.pdf">Focus on Core Competencies</a></h4>
                             <div class="service-block_two-text">By outsourcing infrastructure leasing to specialized providers, Veenet Africa can focus more resources and efforts on its core competencies.</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="Veenet Africa Business Profile.pdf"></a>
                         </div>
                     </div>
                 </div>
@@ -228,9 +228,9 @@
                         <div class="service-block_two-inner">
                             <div class="service-block_two-pattern" style="background-image: url(images/background/service-block_two-pattern.png)"></div>
                             <div class="service-block_two-icon flaticon-installation"></div>
-                            <h4 class="service-block_two-heading"><a href="service-detail.html">Regulatory Compliance</a></h4>
+                            <h4 class="service-block_two-heading"><a href="Veenet Africa Business Profile.pdf">Regulatory Compliance</a></h4>
                             <div class="service-block_two-text">Partnering with established fiber network providers often ensures compliance with local regulations</div>
-                            <a class="service-block_two-arrow flaticon-right-arrow" href="service-detail.html"></a>
+                            <a class="service-block_two-arrow flaticon-right-arrow" href="Veenet Africa Business Profile.pdf"></a>
                         </div>
                     </div>
                 

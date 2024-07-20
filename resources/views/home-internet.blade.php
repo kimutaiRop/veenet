@@ -20,7 +20,7 @@
                             </h1>
                             <!-- Button Box -->
                             <div class="slider-two_button-box">
-                                <a class="btn-style-one theme-btn" href="about.html">
+                                <a class="btn-style-one theme-btn" href="https://api.whatsapp.com/send/?phone=254722684751&text=Hi+Veenet%2C+I+am+Interested+in+Internet+plan%3A+Home+Plan">
                                     <div class="btn-wrap">
                                         <span class="text-one">Check Availibility</span>
                                         <span class="text-two">Check Availibility</span>

@@ -76,15 +76,7 @@
         <nav class="menu-box">
             <div class="nav-logo"><a href="/">
                 <img src="images/logo.png" alt="" title=""></a></div>
-            <!-- Search -->
-            <div class="search-box">
-                <form method="post" action="https://themerange.net/html/monic/contact.html">
-                    <div class="form-group">
-                        <input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
-                        <button type="submit"><span class="icon far fa-search fa-fw"></span></button>
-                    </div>
-                </form>
-            </div>
+           
             <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
         </nav>
     </div>
