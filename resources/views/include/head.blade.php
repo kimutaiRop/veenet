@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Veenet Africa & Internet and Business communications services</title>
+    <title>Veenet Africa Internet and Business communications services</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
