@@ -48,7 +48,7 @@
                 <div class="about-two_image-outer">
                     <div class="about-two_pattern" style="background-image: url(images/background/about-two_pattern.png)"></div>
                     <div class="about-two_image">
-                        <img src="images/resource/about-3.png" alt="" />
+                        <img src="images/resource/office-internet.jpg" alt="" />
                     </div>
                     <div class="about-two_icon flaticon-wifi-router"></div>
                 </div>
@@ -130,10 +130,10 @@
             </div>
         </div>
         <!-- Right Box -->
-        <div class="right-box" style="background-image: url(images/resource/fluid-two.jpg)">
+        <div class="right-box" style="background-image: url(images/resource/tele-communication.jpg)">
             <div class="right-box_inner">
                 <div class="fluid-two_image">
-                    <img src="images/resource/fluid-two.jpg" alt="" />
+                    <img src="images/resource/tele-communication.jpg" alt="" />
                 </div>
             </div>
             <div class="fluid-two_experiance">
@@ -239,50 +239,5 @@
 
     </div>
 </section>
-
-<section class="counter-one">
-    <div class="auto-container">
-        <div class="row clearfix">
-    
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-handshake"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="25"></span>+</div>
-                    <div class="counter-block_one-text">Years of Experience</div>
-                </div>
-            </div>
-
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="150ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-experience"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="56"></span>k</div>
-                    <div class="counter-block_one-text">Worlds Clients</div>
-                </div>
-            </div>
-
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-traffic-data"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="42"></span>K</div>
-                    <div class="counter-block_one-text">Fiber Connection</div>
-                </div>
-            </div>
-
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="450ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-internet-1"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="52"></span>k</div>
-                    <div class="counter-block_one-text">Satellite Channel</div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- End Counter One -->
 
 @endsection

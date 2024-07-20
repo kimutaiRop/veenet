@@ -7,7 +7,7 @@
                 <div class="d-flex justify-content-between flex-wrap">
                     <ul class="header-list">
                         <li><span class="icon fas fa-clock fa-fw"></span>Mon - Sat: 8:00am - 6:00pm</li>
-                        <li><span class="icon fas fa-envelope fa-fw"></span><a href="mailto:info@veenet.co.ke">info@veenet.co.ke</a></li>
+                        <li><span class="icon fas fa-envelope fa-fw"></span><a href="mailto:info@vennet.co.ke">info@vennet.co.ke</a></li>
                     </ul>
                     <!-- Social Box -->
                     <div class="header-social_box">
@@ -58,29 +58,18 @@
                 
                 <!-- Outer Box -->
                 <div class="outer-box d-flex align-items-center">
-                    
-                    <!-- Header Phone Box -->
                     <div class="header-phone_box">
                         <div class="header-phone_box-inner">
                             <div class="header-phone_box-icon flaticon-consulting"></div>
                             Help line <br>
-                            <a href="tel:+254 722684751">(+254) 0722684751</a>
+                            <a href="tel:+254 722684751">(+254) 722684751</a>
                         </div>
                     </div>
-
-                    <!-- Mobile Navigation Toggler -->
                     <div class="mobile-nav-toggler"><span class="icon"><img src="images/icons/menu.png" alt="" /></span></div>
-                    
-                </div>
-                <!-- End Outer Box -->
-                
+                </div>                
             </div>
-            
         </div>
     </div>
-    <!-- End Header Lower -->
-    
-    <!-- Mobile Menu  -->
     <div class="mobile-menu">
         <div class="menu-backdrop"></div>
         <div class="close-btn"><span class="icon far fa-times fa-fw"></span></div>

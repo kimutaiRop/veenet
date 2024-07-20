@@ -49,7 +49,7 @@
                 <div class="about-two_image-outer">
                     <div class="about-two_pattern" style="background-image: url(images/background/about-two_pattern.png)"></div>
                     <div class="about-two_image">
-                        <img src="images/resource/about-3.png" alt="" />
+                        <img src="images/resource/happy-user.jpg" alt="" />
                     </div>
                     <div class="about-two_icon flaticon-wifi-router"></div>
                 </div>
@@ -125,14 +125,27 @@
                     <div class="sec-title">
                         <div class="sec-title_title tx-split-text split-in-up">OUR FACILITY</div>
                         <h2 class="sec-title_heading tx-split-text split-in-up">Few great reasons make <br> you choice us</h2>
-                        <div class="sec-title_text tx-split-text split-in-up">Business is the activity of making one's living or making money by producing cumsociis natoque penatibus et magnis dis partu rient to montes. Aene an massa. cumsociis natoque penatibus.</div>
+                        <div class="sec-title_text tx-split-text split-in-up">
+
+                        </div>
                     </div>
                     <!-- Facility Block One -->
                     <div class="facility-block_one">
                         <div class="facility-block_one-inner">
-                            <div class="facility-block_one-icon flaticon-web-development"></div>
-                            <h4 class="facility-block_one-heading">Free Installation</h4>
-                            <div class="facility-block_one-text">Lorem ipsum dolor sit amet them consec tetur elit sed eiumod. Donec quam felis ies nec.</div>
+                            <div class="facility-block_one-icon flaticon-call"></div>
+                            <h4 class="facility-block_one-heading">24/7 Support</h4>
+                            <div class="facility-block_one-text">ocuses on providing reliable connectivity and excellent customer
+                                support for a seamless internet experience at home.</div>
+                        </div>
+                    </div>
+
+                    <!-- Facility Block One -->
+                    <div class="facility-block_one">
+                        <div class="facility-block_one-inner">
+                            <div class="facility-block_one-icon flaticon-money-bag"></div>
+                            <h4 class="facility-block_one-heading">Competitive pricing </h4>
+                            <div class="facility-block_one-text">Offers competitive pricing and flexible packages to meet various usage
+                                needs.</div>
                         </div>
                     </div>
 
@@ -140,17 +153,9 @@
                     <div class="facility-block_one">
                         <div class="facility-block_one-inner">
                             <div class="facility-block_one-icon flaticon-wifi-router"></div>
-                            <h4 class="facility-block_one-heading">Ultrafast Connect</h4>
-                            <div class="facility-block_one-text">Lorem ipsum dolor sit amet them consec tetur elit sed eiumod. Donec quam felis ies nec.</div>
-                        </div>
-                    </div>
-
-                    <!-- Facility Block One -->
-                    <div class="facility-block_one">
-                        <div class="facility-block_one-inner">
-                            <div class="facility-block_one-icon flaticon-smart-tv"></div>
-                            <h4 class="facility-block_one-heading">4K and 8K Quality</h4>
-                            <div class="facility-block_one-text">Lorem ipsum dolor sit amet them consec tetur elit sed eiumod. Donec quam felis ies nec.</div>
+                            <h4 class="facility-block_one-heading">Quality Connection</h4>
+                            <div class="facility-block_one-text">Veenet Africa delivers high-speed broadband internet services directly
+                                to residential customers</div>
                         </div>
                     </div>
 
@@ -162,10 +167,14 @@
                 <div class="facility-one_image-outer">
                     <span class="facility-one_circle-three"></span>
                     <div class="facility-one_image">
-                        <img src="images/resource/facility.png" alt="" />
+                        <img src="images/resource/us-tab.png"
+                        
+                        alt="" />
                     </div>
                     <div class="facility-one_package">
-                        <img src="images/resource/package.png" alt="" />
+                        <img src="images/resource/package.png" 
+                        style="width:220px!important"
+                        alt="" />
                     </div>
                 </div>
             </div>
@@ -178,51 +187,5 @@
 <!-- Price Two -->
 @include('include.packages')
 <!-- End Price Two -->
-
-<!-- Counter One -->
-<section class="counter-one">
-    <div class="auto-container">
-        <div class="row clearfix">
-    
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-handshake"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="25"></span>+</div>
-                    <div class="counter-block_one-text">Years of Experience</div>
-                </div>
-            </div>
-
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="150ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-experience"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="56"></span>k</div>
-                    <div class="counter-block_one-text">Worlds Clients</div>
-                </div>
-            </div>
-
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-traffic-data"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="42"></span>K</div>
-                    <div class="counter-block_one-text">Fiber Connection</div>
-                </div>
-            </div>
-
-            <!-- Counter Column -->
-            <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <div class="counter-block_one-inner wow flipInX" data-wow-delay="450ms" data-wow-duration="1500ms">
-                    <span class="counter-block_one-icon flaticon-internet-1"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="52"></span>k</div>
-                    <div class="counter-block_one-text">Satellite Channel</div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- End Counter One -->
 
 @endsection
