@@ -106,7 +106,7 @@
     </div>
     <div class="footer-bottom">
         <div class="auto-container">
-            <div class="main-footer_copyright">Copyright 2023. Designed by <a href="https://designekta.com">Designekta Studios</a></div>
+            <div class="main-footer_copyright">Copyright 2024. Designed by <a href="https://designekta.com">Designekta Studios</a></div>
         </div>
     </div>
 </footer>
