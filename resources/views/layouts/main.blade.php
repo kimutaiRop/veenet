@@ -34,7 +34,6 @@
 <script src="js/pagenav.js"></script>
 <script src="js/nav-tool.js"></script>
 <script src="js/jquery-ui.js"></script>
-<script src="js/color-settings.js"></script>
 <script src="js/script.js"></script>
 
 </body>

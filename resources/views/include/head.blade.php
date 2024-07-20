@@ -5,10 +5,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
-    
-    <!--Color Switcher Mockup-->
-    <link href="css/color-switcher-design.css" rel="stylesheet">
-    
+        
     <!-- Color Themes -->
     <link id="theme-color-file" href="css/color-themes/default-color.css" rel="stylesheet">
     
