@@ -47,8 +47,8 @@
             <div class="about-two_image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="about-two_image-outer">
                     <div class="about-two_pattern" style="background-image: url(images/background/about-two_pattern.png)"></div>
-                    <div class="about-two_image">
-                        <img src="images/resource/office-internet.jpg" alt="" />
+                    <div class="about-two_image" >
+                        <img src="images/resource/office-internet.png" alt="" />
                     </div>
                     <div class="about-two_icon flaticon-wifi-router"></div>
                 </div>
