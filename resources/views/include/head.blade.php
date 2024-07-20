@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Monic TV & Internet Business HTML-5 Template | Homepage 01</title>
+    <title>Veenet Africa & Internet Business HTML-5 Template | Homepage 01</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
