@@ -48,6 +48,7 @@
                                 <li><a href="/home-internet">Home Internet</a></li>
                                 <li><a href="/wholesale-internet">Wholesale & DIA Internet</a></li>
                                 <li><a href="/business-communication">Business Communication</a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=254722684751&text=Hi+Veenet%2C+I+am interested in your services">Contact Us</a></li>
                             </ul>
                         </div>
                         
