@@ -23,7 +23,7 @@
                                     <i class="fa fa-phone"></i>
                                 </div>
                                 Give us a call <br>
-                                <a href="tel:+254 722534635">(+254) 722534635</a>
+                                <a href="tel:+254 758353533">(+254) 758353533</a>
                             </div>
                         </div>
                     </div>

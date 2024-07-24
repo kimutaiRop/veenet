@@ -24,7 +24,7 @@
                                     <i class="fa fa-phone"></i>
                                 </div>
                                 Give us a call <br>
-                                <a href="tel:+254 722534635">(+254) 722534635</a>
+                                <a href="tel:+254 758353533">(+254) 758353533</a>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                             <ul class="about-two_list">
                                 <li><i class="fa-solid fa-bolt fa-fw"></i> Friendly Support</li>
                                 <li><i class="fa-solid fa-bolt fa-fw"></i> 24/7 Online Support</li>
-                                <li><i class="fa-solid fa-bolt fa-fw"></i> Speed Up to 100 Mbps</li>
+                                <li><i class="fa-solid fa-bolt fa-fw"></i> Unlimited Speeds</li>
                             </ul>
                         </div>
                     </div>
