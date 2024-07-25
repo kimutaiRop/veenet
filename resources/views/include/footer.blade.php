@@ -83,7 +83,7 @@
                                     <ul class="footer-contact_list">
                                         <li><span class="icon fas fa-map-marker-alt fa-fw"></span>1st Floor, Kitisuru Place, Nairobi.</li>
                                         <li><span class="icon fas fa-envelope fa-fw"></span> info@vennet.co.ke </li>
-                                        <li><span class="icon fas fa-phone fa-fw"></span>(+254) 722684751</li>
+                                        <li><span class="icon fas fa-phone fa-fw"></span>(+254) 758353533</li>
                                     </ul>
                                     <!-- Social Box -->
                                     <div class="footer_socials">
