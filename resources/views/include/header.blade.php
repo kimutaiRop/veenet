@@ -63,7 +63,7 @@
                         <div class="header-phone_box-inner">
                             <div class="header-phone_box-icon flaticon-consulting"></div>
                             Help line <br>
-                            <a href="tel:+254 722684751">(+254) 722684751</a>
+                            <a href="tel:+254 722684751">(+254) 758353533</a>
                         </div>
                     </div>
                     <div class="mobile-nav-toggler"><span class="icon"><img src="images/icons/menu.png" alt="" /></span></div>

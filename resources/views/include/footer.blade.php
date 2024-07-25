@@ -15,7 +15,7 @@
             <div class="counter-block_one col-xl-3 col-lg-6 col-md-6 col-sm-6">
                 <div class="counter-block_one-inner wow flipInX" data-wow-delay="150ms" data-wow-duration="1500ms">
                     <span class="counter-block_one-icon flaticon-experience"></span>
-                    <div class="counter-block_one-counter"><span class="odometer" data-count="02"></span>k</div>
+                    <div class="counter-block_one-counter"><span class="odometer" data-count="2000"></span>+</div>
                     <div class="counter-block_one-text">Happy Clients</div>
                 </div>
             </div>

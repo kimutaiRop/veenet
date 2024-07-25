@@ -2,7 +2,10 @@
 <html lang="en">
 
 {{-- include heade --}}
+<head>
+@yield('title')
 @include('include.head')
+</head>
 
 <body>
 <div class="page-wrapper">

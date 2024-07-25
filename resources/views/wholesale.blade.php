@@ -1,6 +1,8 @@
 @extends('layouts.main')
 {{-- put inside container --}}
-
+@section("title")
+<title>Veenet Africa | Wholesale Internet & DIA Internet </title>
+@endsection
 @section('content')
 
 <!-- Slider One -->

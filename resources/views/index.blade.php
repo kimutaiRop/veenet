@@ -1,5 +1,8 @@
 @extends('layouts.main')
 {{-- put inside container --}}
+@section("title")
+<title>Veenet Africa | Business Communication Solutions </title>
+@endsection
 
 @section('content')
 
@@ -220,7 +223,7 @@
 						<ul class="about-one_lists">
 							<li><i class="arrow fa fa-arrow-circle-right"></i> Home Internet Connection</li>
 							<li><i class="arrow fa fa-arrow-circle-right"></i> Wholesale Internet Connection</li>
-							<li><i class="arrow fa fa-arrow-circle-right"></i> Business Communication Service</li>
+							<li><i class="arrow fa fa-arrow-circle-right"></i> Business Communication Solutions</li>
 						</ul>
 						<div class="inverse-one_phone">
                             <div class="inverse-one_phone-icon">

@@ -1,5 +1,8 @@
 @extends('layouts.main')
 {{-- put inside container --}}
+@section("title")
+<title>Veenet Africa | Business Communication Solutions </title>
+@endsection
 
 @section('content')
 
